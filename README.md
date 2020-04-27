@@ -1,4 +1,5 @@
-# E12b-Github
+# E12b-Github Excersize for MSCH-C220 Indiana University
+Directions are below:
 
 This repository contains a very simple Godot project, but the exercise centers on tools (available to you through Github) for collaborating with others on a project like this one. 
 
